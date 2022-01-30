@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="itemName">itemName</string>
+    <string name="itemQuantity">itemQuantity</string>
+    <string name="itemPrice">itemPrice</string>
+    <string name="totalCost">totalCost</string>
+    <string name="totalCostTitle">Total Cost</string>
+    <string name="title">title</string>
+    <string name="etItem">etItem</string>
+    <string name="etQuantity">etQuantity</string>
+    <string name="etPrice">etPrice</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+</resources>
